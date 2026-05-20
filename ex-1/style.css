@@ -1,1 +1,20 @@
-/* start coding here */
+input[type="text"] {
+    width: 240px;
+    height: 50px;
+    border-radius: 3px;
+}
+input[type="email"] {
+    width: 240px;
+    height: 50px;
+    border-radius: 3px;
+}
+input[type="password"] {
+    width: 240px;
+    height: 50px;
+    border-radius: 3px;
+}
+button{
+    width: 120px;
+    height: 36px;
+    background-color: khaki;
+}
