@@ -16,5 +16,6 @@ input[type="password"] {
 button{
     width: 120px;
     height: 36px;
+    border-color: lightgrey;
     background-color: khaki;
 }
